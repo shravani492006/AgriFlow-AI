@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pandas>=2.0
+joblib>=1.3
+# The model file was trained/saved with scikit-learn 1.6.1 - keep the same version
+scikit-learn==1.6.1
