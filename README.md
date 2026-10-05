@@ -392,28 +392,36 @@ screenshots/
 ```
 
 ### Dashboard
+<img width="1911" height="872" alt="Screenshot 2026-10-02 222227" src="https://github.com/user-attachments/assets/08f8df18-14b0-46cc-a997-96cfcca5939a" />
 
-![AgriFlow Dashboard](screenshots/dashboard.png)
+<img width="1917" height="873" alt="Screenshot 2026-10-02 222350" src="https://github.com/user-attachments/assets/3d744020-a521-4e0b-af3c-4e1ccac3e8a7" />
+
 
 ### AI Irrigation Advisor
+<img width="1917" height="847" alt="Screenshot 2026-10-02 222401" src="https://github.com/user-attachments/assets/05bdf4bf-5cb9-4220-b53f-df120e64150e" />
 
-![AI Irrigation Advisor](screenshots/ai-advisor.png)
+<img width="1558" height="860" alt="Screenshot 2026-10-02 223414" src="https://github.com/user-attachments/assets/6f0a05ac-4f55-4a47-b1c7-89857d30ba6c" />
+
 
 ### Weather & Environment
 
-![Weather and Environment](screenshots/weather-environment.png)
+<img width="1570" height="866" alt="Screenshot 2026-10-02 224020" src="https://github.com/user-attachments/assets/c66b93ff-8841-4606-9ec0-c08335b5c3d8" />
+
 
 ### Irrigation Schedule
 
-![Irrigation Schedule](screenshots/irrigation-schedule.png)
+<img width="1551" height="858" alt="Screenshot 2026-10-02 224040" src="https://github.com/user-attachments/assets/3908b2c3-a3d7-480c-a848-3a57bc731d3c" />
+
 
 ### History
 
-![Irrigation History](screenshots/history.png)
+<img width="1570" height="865" alt="Screenshot 2026-10-02 224051" src="https://github.com/user-attachments/assets/daae5b47-629f-4e46-b7db-092623e1617e" />
+
 
 ### Responsible AI
 
-![Responsible AI](screenshots/responsible-ai.png)
+
+<img width="1555" height="860" alt="Screenshot 2026-10-02 224108" src="https://github.com/user-attachments/assets/000ac9f3-924e-4504-9692-c4102652e3e5" />
 
 ---
 
